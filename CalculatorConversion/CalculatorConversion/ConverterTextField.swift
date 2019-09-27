@@ -11,7 +11,7 @@ import UIKit
 
 import UIKit
 
-class ConverterTextField: UITextField {
+class ConverterTextField: DecimalMinusTextField {
     
     override func awakeFromNib() {
         
